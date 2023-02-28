@@ -7,11 +7,4 @@ Well, let's find out! What characteristics do the prize winners have? Which coun
 #### Data 
 The dataset used in this project is from The Nobel Foundation on Kaggle.
 
-#### GOAL
-Visualizing trends in Nobel Peace Prize History
 
-#### Technology Used
-R programming language
-
-#### Status
-95%
