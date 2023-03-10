@@ -2,7 +2,7 @@
 library(tidyverse)
 
 # Reading in the Nobel Prize data
-nobel <- read_csv('datasets/nobel.csv')
+nobel <- read_csv('data/nobel.csv')
 
 # Taking a look at the first couple of winners
 head(nobel,n=2)
